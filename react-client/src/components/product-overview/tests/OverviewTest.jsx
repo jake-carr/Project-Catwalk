@@ -16,7 +16,7 @@ function Overview({
 
   const [product, setProduct] = useState(0)
 
-  const fetch = () => {
+  const getProduct = () => {
     axios.get(`/api/shared/products/`)
       .then((data) => {
         setProduct(data.data);
@@ -27,7 +27,7 @@ function Overview({
   }
 
   useEffect(() => {
-    fetch()
+    getProduct()
   }, [])
 
   return (
