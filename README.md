@@ -1,6 +1,6 @@
 # Project-Catwalk
 
-Forever 32 is an E-commerce website that refactored an outdated retail portal provided by a contracted company. The implemented features modernize the user experience of customers browsing items in the retain catalog.
+Forever 32 is an E-commerce website that refactored an outdated retail portal provided by a contracted company. The implemented features modernize the user experience of customers browsing items in the retail catalog.
 
 # Table of Contents
 [Installation guide](https://github.com/Sarahs-Minions/Project-Catwalk/blob/testing/README.md#installation).  
