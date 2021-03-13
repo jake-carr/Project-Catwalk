@@ -13,7 +13,7 @@ We are using:
 
 Node / NPM.  
 ES2015 (and beyond) support.  
-react 17.0.  
+React 17.0.  
 axios.  
 express.  
 
