@@ -41,3 +41,6 @@ This project is split into 4 componenets: Overview, Related items, QA, and Revie
 ## QA
 
 ## Reviews
+The reviews section displays the reviews for the current product. There is functionality to add a new review and will display two reviews by default. Clicking the button to add more reviews will load two more reviews onto the page. 
+In addition to the reviews section there is also a subsection for the ratings for that current product. The ratings section will give a breakdown of the percentages chosen for each star rating. The ratings section will also display a chart that shows the score each characteristic got. 
+
